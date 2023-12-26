@@ -71,6 +71,12 @@
       "email": "sanju@gamil.com",
       "password": "1234",
       "id": 12
+    },
+    {
+      "name": "Sai123",
+      "email": "Sai@.com",
+      "password": "1234",
+      "id": 13
     }
   ],
   "product": [
@@ -159,6 +165,12 @@
       "email": "vinay@user.com",
       "password": "1234",
       "id": 2
+    },
+    {
+      "name": "sai123",
+      "email": "sai@g.com",
+      "password": "1234",
+      "id": 3
     }
   ]
 }
